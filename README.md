@@ -1,10 +1,6 @@
-# BBM 409: Machine Learning Laboratory - Project Assignment 1 👨🏻‍🔬✨
+# Machine Learning Laboratory - Project Assignment 1 👨🏻‍🔬✨
 
-Welcome to my repository for **Project Assignment 1** of the **BBM 409: Machine Learning Laboratory** course! This project was completed as part of my coursework at Hacettepe University during the Spring 2025 semester. 🚀
-
-## Group Members 👥
-- **Mert Çetin** - 2220356148 (GitHub: [merttcetn](https://github.com/merttcetn))  
-- **Mehmet Oğuz Kocadere** - 2210356021  
+Welcome to my repository for **Project Assignment 1** of the **Machine Learning Laboratory** course! This project was completed as part of my coursework at Hacettepe University during the Spring 2025 semester. 🚀
 
 ## Project Overview 📝
 This assignment focuses on **Textual Data Analysis** using machine learning techniques. The project is divided into parts, with **Part I** exploring textual data through preprocessing, feature extraction, and model evaluation. We implemented and compared several machine learning models to analyze the dataset provided in `part_i.csv`. 📊
