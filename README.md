@@ -16,8 +16,8 @@ This assignment focuses on **Textual Data Analysis** using machine learning tech
 - **Visualizations**: Confusion matrices for each model with colorful heatmaps 🎨  
 
 ## Repository Structure 🗂️
-- **`BBM409_PA1.ipynb`**: The main Jupyter Notebook containing the code, analysis, and visualizations.  
-- **`BBM409_S25_PA1_Dataset_v1/part_i.csv`**: The dataset used for this project (not uploaded due to size or privacy, but referenced).  
+- **`assignment1.ipynb`**: The main Jupyter Notebook containing the code, analysis, and visualizations.  
+- **`part_i.csv`**: The dataset used for this project (not uploaded due to size or privacy, but referenced).  
 - **`README.md`**: This file!  
 
 ## How to Run the Project 🛠️
